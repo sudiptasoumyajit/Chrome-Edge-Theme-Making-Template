@@ -1,0 +1,8 @@
+Frame                                                 		64x128             
+frame_default_inactive                      		64x128
+ntp_background                                 		Whatever resolution you want
+theme_button_background              		120x120
+theme_tab_background                     		64x128
+theme_tab_background_glass           		64x128
+theme_tab_background_incognito    		64x128
+theme_toolbar                                    		64x128

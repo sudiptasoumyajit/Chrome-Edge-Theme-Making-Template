@@ -1,0 +1,30 @@
+1.
+Excract the given zip file.
+
+2.
+Open mainfest.json in VS code and write the common things from the image common_things_needed_in_json.png
+
+3.
+Open each image in photoshop and set its dimessions accoridng to the give file image_dimession.text
+
+4.
+For More Designing, Read the snippets folder.
+
+5.
+For Testing it, Create a zip file
+
+6.
+Go to chrome/edge //extenstions
+
+7.
+Enable Developer Mode
+
+8.
+Drag the zip file
+
+9.
+See the theme
+
+
+Note:
+This is a template
